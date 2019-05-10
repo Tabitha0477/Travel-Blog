@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+        body {background-color :green;
+        }
+        #dreams{ color: blue;
+            
+        }
+        .destination {background-color :blue;
+        }
+        </style>
+    </head>
+    <body>
+    
+       <center> <h1 id="dreams">Travel Dreams</h1></center>
+       <center> <h2>Places on my bucket list to visit</h2></center>
+        <p>I have never done much traveling and now that I have raised my kids and I am older I want to follow my dream to do some traveling.  I have yet to get a chance to travel outside the country and I have only been to a few states in the US. So I hope you like reading my virtual trip around the world.</p>
+        
+        <img src="https://www.kasandbox.org/programming-images/space/beetleship.png" alt="Beetle in a Spaceship">
+        
+     <h3 class="destination">1. Japan</h3>
+     <p>Japan is one of those countries that has always seemed systerious to me and keeps you guessing.  From the lights of Tokyo to the quiet of some of the smaller islands, Japan has something to feed every part of my soul.</p>
+     <h4><em>Some</em> of the things I want to see while I am there</h4>
+     
+     <ul>
+         <li>Tokyo Tower</li>
+         <li><a href="https://wanwan-land.co.jp/en"> Wan Wan Land</a></li>
+         <li>Mt. Fuji</li>
+         <li>Jigokudani Monkey Park</li>
+         <li><a href="https://vr-ninja.jp/"> VR Ninja Dojo</a></li>
+         <li>A <a href="https://en.wikipedia.org/wiki/Gashapon">Gashapon</a> store</li>
+     </ul>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/lotus-garden.png">
+        <h3 class="destination">2. Paris</h3>
+        
+        <p>I don't know anyone that can deny the wonders of the Eiffel tower especially lit up at night.  Just the French language makes Paris seem magical.  I want to experience as much of the culture as possible while there.  The two most important sites I would want ot see are the Eiffell Tower and the Louvre Museum.</p>
+        <h3 class="destination">3. Sweden</h3>
+        <img src="https://www.kasandbox.org/programming-images/seasonal/reindeer.png">
+        
+        <p>
+Jag talar svenska så att åka till Sverige kommer att bli en riktigt rolig resa. Jag vill se alla de vilda djuren i Sverige samt uppleva kulturen. Jag skulle gärna besöka några av vikingruinerna i Skandinavien.  <strong>Translation:</strong> I speak Swedish so going to Sweden will be a really fun trip.  I want to see all of the wild animals in Sweden as well as experience the culture.  I would love to visit some of the viking ruins in Scandinavia.
+</p>
+<h4>Things I would like to see in Sweden
+    <ol>
+        <li>Stockholm Old Town</li>
+        <li><a href="https://en.wikipedia.org/wiki/Anundsh%C3%B6g">Anundshog</a></li>
+        <li><a href="https://www.birkavikingastaden.se/en/attraction/guided-tours">Birka, Lake Mälaren</a></li>
+        <li>The Swedish History Museum</li>
+    </ol>
+</h4>
+
+<h3 class="destination">4. ????</h3>
+<p>Those are my dream places to visit at the moment, but I am sure I will be adding more destinations soon</p>
+        
+        
+    </body>
+</html>
